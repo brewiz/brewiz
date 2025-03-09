@@ -26,7 +26,7 @@ alias brewiz='/usr/bin/ruby -e "$(curl -fsSL https://brewiz.github.io/bin/brewiz
 Alternatively, you can download the script from GitHub and run it directly:
 
 ```bash
-curl -fsSL -O brewiz [https://brewiz.github.io/bin/brewiz](https://brewiz.github.io/bin/brewiz)
+curl -fsSL -O brewiz https://brewiz.github.io/bin/brewiz
 chmod +x brewiz
 ./brewiz
 ```
